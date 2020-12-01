@@ -261,7 +261,7 @@ margin: auto;
     animation: fadeInDown 800ms;
     -webkit-backface-visibility: hidden;
     border-radius: 0px;
-    background: #211E3B;
+    background: #1F4E79;
 	box-shadow: 0 0 40px rgba(0, 0, 0, 0.07);
 }
 #navigation{
@@ -494,8 +494,8 @@ margin: auto;
 }
 .btn-home-bg:hover,
 .btn-home-bg:focus{
-	background:#211E3B;
-	border-color: #211E3B;
+	background:#557DA1;
+	border-color: #557DA1;
 	color:#fff;
 	outline:0;
 }
@@ -558,7 +558,7 @@ margin: auto;
 .our_services{
 	padding-top:100px;
 	padding-bottom:70px;
-	background-color: #F1F8FF;
+	background-color: #557DA1;
 }
 .service {
 	background: #fafafa none repeat scroll 0 0;
@@ -596,7 +596,7 @@ margin: auto;
 .service a,
 .service a:hover,
 .service a:focus{
-	color: #333;
+	color: white;
 	font-weight: 600;
 }
 .service a i{
@@ -916,8 +916,8 @@ margin: auto;
 }
 .gallery-btn:hover,
 .gallery-btn:focus{
-	background-color: #211E3B;
-	border-color: #211E3B;
+	background-color: #557DA1;
+	border-color: #557DA1;
 	color: #fff;
 }
 .single-gallery:hover:before,
@@ -1361,7 +1361,7 @@ img{
 */
 .partner-logo {
   position: relative;
-  background-color: #211E3B;
+  background-color: #042848;
 }
 
 .partner { text-align: center }
@@ -1442,8 +1442,8 @@ img{
 
 
 #submitButton.btn-contact-bg {
-	background-color: #fc5b62;
-	border: 1px solid #fc5b62;
+	background-color: #042848;
+	border: 1px solid #042848;
 	border-radius: 4px;
 	color: #fff;
 	font-size: 15px;
@@ -1480,7 +1480,7 @@ img{
 
 .footer {
 	padding: 90px 0 40px;
-	background-color: #211E3B;
+	background-color: #1F4E79;
 	color: #fff;
 }
 .footer-top {
@@ -2076,7 +2076,7 @@ img{
 		
 	}
 	.slicknav_nav{
-		background-color: #211E3B;
+		background-color: #1F4E79;
 	}
 	#navigation #mobile_menu li a{
 		color: #fff;
@@ -2121,4 +2121,14 @@ img{
 		top: -47px;
 		right: 17px;
 	}
+}
+
+.btn-color {
+	background-color:#103C63;
+	color: white;
+}
+
+.btn-color:hover {
+	color: white;
+	background-color: #557DA1;
 }
